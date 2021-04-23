@@ -1,0 +1,11 @@
+@import url('./header.css');
+@import url('./main.css');
+@import url('./footer.css');
+@font-face {
+    font-family:'Billabong';
+    src: url('../fuentes/FontsFree-Net-Billabong.ttf');
+}
+@font-face {
+    font-family:Helvetica;
+    src: url('../fuentes/helvetica-normal.ttf');
+}
